@@ -1,0 +1,55 @@
+html, body {
+    margin: 0;
+}
+#imagem_fundo {
+    background: url("ods1\ \(1\).jpg");
+    height: 99%;
+    text-align: center;
+}
+#titulo {
+    color: black;
+    padding-top: 20%;
+    font-size: 70px;
+    line-height: 0.6;
+    
+}
+#subtitulo {
+    color: black;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-top: 3px solid white;
+    text-shadow: 1px 1px  black;
+}
+#acao {
+    color: white;
+    border: 1px white solid;
+    padding: 10px 20px 10px 20px ;
+}
+element.style {
+}
+header .menu li {
+    float: left;
+    font-size: 18px;
+    padding: 20px 10px 20px 10px;
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+header .menu {
+    float: right;
+    list-style: none;
+    margin-top: 0px;
+    margin-right: 5%;
+}
+folha de estilos de agente de usuário
+ul {
+    list-style-type: disc;
+}
+html, body {
+    margin: 0;
+    font-size: 14px;
+    font-weight: 300;
+    font-family: Roboto, 'Open Sans', Arial, sans-serif;
+}
+
